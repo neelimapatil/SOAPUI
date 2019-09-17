@@ -20,5 +20,6 @@ public class GetData {
 	    Assert.assertEquals(code, HttpStatus.SC_OK);//200 code
 	    String data=resp.asString();
 	    System.out.println(data);
+	    System.out.println("1st changes");
 	}
 }
