@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "john.doe@gmail.com",
+      "age": 34,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "Mark",
+      "lastname": "Williams",
+      "email": "Mark.Williams@gmail.com",
+      "age": 33,
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstname": "Sara",
+      "lastname": "Thompson",
+      "email": "Sara.Thompson@gmail.com",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "id": "4",
+      "firstname": "Karen",
+      "lastname": "Jackson",
+      "email": "Karen.Jackson@gmail.com",
+      "age": 45,
+      "companyId": "3"
+    },
+    {
+      "id": "5",
+      "firstname": "Janet",
+      "lastname": "Sor",
+      "email": "Janet.Sor@gmail.com",
+      "age": 34,
+      "companyId": "1"
+    },
+    {
+      "id": "6",
+      "firstname": "Jogeff",
+      "lastname": "Davidson",
+      "email": "Jogeff.Davison@gmail.com",
+      "age": 33,
+      "companyId": "1"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Apple Company"
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "Microsoft Company"
+    },
+    {
+      "id": "3",
+      "name": "Google",
+      "description": "Apple Company"
+    }
+  ]
+}
